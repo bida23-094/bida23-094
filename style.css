@@ -58,6 +58,7 @@ nav ul li a:hover {
   color: white;
   background-color: #66706c;
   cursor: pointer;
+  float: right;
 }
 
 .button2:hover {
