@@ -9,8 +9,7 @@ navbar {
 } 
   
 nav {
-  height: 100vh;
-  width: 100%;
+ 
   box-sizing: border-box;
   background-color: #333;
   padding: 10px;
