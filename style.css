@@ -4,25 +4,28 @@
      margin:0;
      padding:0;
     font-family:arial;
- }
-.nav{
-   overflow:hidden;
-   background:#fff;
-   margin-top:-5px
+nav {
+  background-color: #333;
+  padding: 10px;
 }
-.nav a{
-  float:center;
-  color:#000;
-  text-align:center;
-  padding:20px 16px;
-  font-size:14px;
-  width:100px;
-  text deocoration:none
-  font-weight:bold;
-  text-transform:uppercase;
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
 }
-.nav a:hover{
-  background:purple;
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #ccc;
 }
   
   
