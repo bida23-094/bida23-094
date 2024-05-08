@@ -62,3 +62,9 @@ nav ul li a:hover {
   cursor: pointer;
   float: right;
 }
+carousel-item{
+  Height:600px;
+  width:400px;
+  font-weight:bold;
+}
+
